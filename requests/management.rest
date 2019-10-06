@@ -1,0 +1,12 @@
+GET http://localhost:8080/health
+
+###
+
+GET http://localhost:8080/metrics
+Accept: application/json
+
+###
+
+GET http://localhost:8080/openapi
+
+###
